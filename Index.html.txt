@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sumitra Agency | Home</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sumitra Agency</h1>
+    <p>Leading C&F Agency | Operational Excellence Since 2000</p>
+  </header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Us</a>
+    <a href="services.html">Services</a>
+    <a href="resources.html">Resources</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <section>
+    <h2>Welcome</h2>
+    <p>We specialize in audit-ready SOPs, dispatch accuracy, and strategic documentation across pharma, FMCG, and logistics sectors.</p>
+    <a href="about.html">Learn More</a>
+  </section>
+  <footer>
+    <p>&copy; 2025 Sumitra Agency. All rights reserved.</p>
+  </footer>
+</body>
+</html>
